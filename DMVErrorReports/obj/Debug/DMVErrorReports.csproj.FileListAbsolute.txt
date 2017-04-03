@@ -1,0 +1,12 @@
+D:\SampleProjects\DMVErrorReports\DMVErrorReports\bin\DMVErrorReports.dll.config
+D:\SampleProjects\DMVErrorReports\DMVErrorReports\bin\DMVErrorReports.dll
+D:\SampleProjects\DMVErrorReports\DMVErrorReports\bin\DMVErrorReports.pdb
+D:\SampleProjects\DMVErrorReports\DMVErrorReports\obj\Debug\DMVErrorReports.csprojResolveAssemblyReference.cache
+D:\SampleProjects\DMVErrorReports\DMVErrorReports\obj\Debug\DMVErrorReports.dll
+D:\SampleProjects\DMVErrorReports\DMVErrorReports\obj\Debug\DMVErrorReports.pdb
+D:\Projects\DMVErrorReports\DMVErrorReports\DMVErrorReports\bin\DMVErrorReports.dll.config
+D:\Projects\DMVErrorReports\DMVErrorReports\DMVErrorReports\bin\DMVErrorReports.dll
+D:\Projects\DMVErrorReports\DMVErrorReports\DMVErrorReports\bin\DMVErrorReports.pdb
+D:\Projects\DMVErrorReports\DMVErrorReports\DMVErrorReports\obj\Debug\DMVErrorReports.csprojResolveAssemblyReference.cache
+D:\Projects\DMVErrorReports\DMVErrorReports\DMVErrorReports\obj\Debug\DMVErrorReports.dll
+D:\Projects\DMVErrorReports\DMVErrorReports\DMVErrorReports\obj\Debug\DMVErrorReports.pdb
